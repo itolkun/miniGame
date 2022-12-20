@@ -11,6 +11,7 @@
 		834219E029520CF900656AFE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834219DF29520CF900656AFE /* ContentView.swift */; };
 		834219E229520CFA00656AFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834219E129520CFA00656AFE /* Assets.xcassets */; };
 		834219E529520CFA00656AFE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834219E429520CFA00656AFE /* Preview Assets.xcassets */; };
+		834219EE295234E600656AFE /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834219ED295234E600656AFE /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		834219DF29520CF900656AFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		834219E129520CFA00656AFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		834219E429520CFA00656AFE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		834219ED295234E600656AFE /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				834219DD29520CF900656AFE /* miniGameApp.swift */,
 				834219DF29520CF900656AFE /* ContentView.swift */,
+				834219ED295234E600656AFE /* SliderView.swift */,
 				834219E129520CFA00656AFE /* Assets.xcassets */,
 				834219E329520CFA00656AFE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				834219EE295234E600656AFE /* SliderView.swift in Sources */,
 				834219E029520CF900656AFE /* ContentView.swift in Sources */,
 				834219DE29520CF900656AFE /* miniGameApp.swift in Sources */,
 			);
